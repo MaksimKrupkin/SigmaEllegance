@@ -1,10 +1,10 @@
 {
-  "pidjac": [
+  "pidjacs": [
     {
       "category": "pidjac",
       "number": "1",
       "price": "900.00 р.",
-      "type": "Пиджаки",
+      "type": "Пиджак",
       "color": "Коричневый",
       "sizes": " S, M, L, XL",
       "season": "Мульти",
@@ -16,7 +16,7 @@
       "category": "pidjac",
       "number": "2",
       "price": "932.00 р.",
-      "type": "Пиджаки",
+      "type": "Пиджак",
       "color": "Голубой",
       "sizes": " S, M, L",
       "season": "Лето",
@@ -28,7 +28,7 @@
       "category": "pidjac",
       "number": "3",
       "price": "1283.00 р.",
-      "type": "Пиджаки",
+      "type": "Пиджак",
       "color": "Черный",
       "sizes": "S, M, XL",
       "season": "Лето",
@@ -40,7 +40,7 @@
       "category": "pidjac",
       "number": "4",
       "price": "999.00 р.",
-      "type": "Пиджаки",
+      "type": "Пиджак",
       "color": "Голубой",
       "sizes": " S, M, L",
       "season": "Лето",
@@ -52,7 +52,7 @@
       "category": "pidjac",
       "number": "5",
       "price": "944.00 р.",
-      "type": "Пиджаки",
+      "type": "Пиджак",
       "color": "Голубой",
       "sizes": " S, M, L",
       "season": "Лето",
@@ -64,7 +64,7 @@
       "category": "pidjac",
       "number": "6",
       "price": "900.00 р.",
-      "type": "Пиджаки",
+      "type": "Пиджак",
       "color": "Голубой",
       "sizes": " S, M, L",
       "season": "Лето",
@@ -76,7 +76,7 @@
       "category": "pidjac",
       "number": "7",
       "price": "1211.00 р.",
-      "type": "Пиджаки",
+      "type": "Пиджак",
       "color": "Голубой",
       "sizes": " S, M, L",
       "season": "Лето",
@@ -88,7 +88,7 @@
       "category": "pidjac",
       "number": "8",
       "price": "900.00 р.",
-      "type": "Пиджаки",
+      "type": "Пиджак",
       "color": "Голубой",
       "sizes": " S, M, L",
       "season": "Лето",
@@ -100,7 +100,7 @@
       "category": "pidjac",
       "number": "9",
       "price": "900.00 р.",
-      "type": "Пиджаки",
+      "type": "Пиджак",
       "color": "Голубой",
       "sizes": " S, M, L",
       "season": "Лето",
@@ -109,7 +109,7 @@
       "image1": "/img/pidjac-9.webp"
     }
   ],
-  "kostum": [
+  "kostums": [
     {
       "category": "kostum",
       "number": "1",
@@ -188,13 +188,13 @@
       "category": "shirts",
       "number": "1",
       "price": "1450.00 р.",
-      "type": "Рубашки",
+      "type": "Брюки",
       "color": "Голубой",
       "sizes": " S, M, L",
       "season": "Лето",
       "sostav": "Шерсть - 98%, Эластан - 2%",
       "siluet": "Приталенный",
-      "image1": "/img/shirt-1.webp"
+      "image1": "/img/shirts-1.webp"
     },
     {
       "category": "shirts",
@@ -206,7 +206,7 @@
       "season": "Лето",
       "sostav": "Шерсть - 98%, Эластан - 2%",
       "siluet": "Приталенный",
-      "image1": "/img/shirt-2.webp"
+      "image1": "/img/shirts-2.webp"
     },
     {
       "category": "shirts",
@@ -218,7 +218,7 @@
       "season": "Лето",
       "sostav": "Шерсть - 98%, Эластан - 2%",
       "siluet": "Приталенный",
-      "image1": "/img/shirt-3.webp"
+      "image1": "/img/shirts-3.webp"
     },
     {
       "category": "shirts",
@@ -230,7 +230,7 @@
       "season": "Лето",
       "sostav": "Шерсть - 98%, Эластан - 2%",
       "siluet": "Приталенный",
-      "image1": "/img/shirt-4.webp"
+      "image1": "/img/shirts-4.webp"
     },
     {
       "category": "shirts",
@@ -242,7 +242,7 @@
       "season": "Лето",
       "sostav": "Шерсть - 98%, Эластан - 2%",
       "siluet": "Приталенный",
-      "image1": "/img/shirt-5.webp"
+      "image1": "/img/shirts-5.webp"
     },
     {
       "category": "shirts",
@@ -254,7 +254,7 @@
       "season": "Лето",
       "sostav": "Шерсть - 98%, Эластан - 2%",
       "siluet": "Приталенный",
-      "image1": "/img/shirt-6.webp"
+      "image1": "/img/shirts-6.webp"
     },
     {
       "category": "shirts",
@@ -266,7 +266,7 @@
       "season": "Лето",
       "sostav": "Шерсть - 98%, Эластан - 2%",
       "siluet": "Приталенный",
-      "image1": "/img/shirt-7.webp"
+      "image1": "/img/shirts-7.webp"
     },
     {
       "category": "shirts",
@@ -278,7 +278,7 @@
       "season": "Лето",
       "sostav": "Шерсть - 98%, Эластан - 2%",
       "siluet": "Приталенный",
-      "image1": "/img/shirt-8.webp"
+      "image1": "/img/shirts-8.webp"
     },
     {
       "category": "shirts",
@@ -290,122 +290,12 @@
       "season": "Лето",
       "sostav": "Шерсть - 98%, Эластан - 2%",
       "siluet": "Приталенный",
-      "image1": "/img/shirt-9.webp"
-    }
-  ],
-  "shoes": [
-    {
-      "category": "shoes",
-      "number": "1",
-      "price": "1450.00 р.",
-      "type": "Обувь",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/shoes-1.webp"
-    },
-    {
-      "category": "shoes",
-      "number": "2",
-      "price": "1450.00 р.",
-      "type": "Брюки",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/shoes-2.webp"
-    },
-    {
-      "category": "shoes",
-      "number": "3",
-      "price": "1450.00 р.",
-      "type": "Брюки",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/shoes-3.webp"
-    },
-    {
-      "category": "shoes",
-      "number": "4",
-      "price": "1450.00 р.",
-      "type": "Брюки",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/shoes-4.webp"
-    },
-    {
-      "category": "shoes",
-      "number": "5",
-      "price": "1450.00 р.",
-      "type": "Брюки",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/shoes-5.webp"
-    },
-    {
-      "category": "shoes",
-      "number": "6",
-      "price": "1450.00 р.",
-      "type": "Брюки",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/shoes-6.webp"
-    },
-    {
-      "category": "shoes",
-      "number": "7",
-      "price": "1450.00 р.",
-      "type": "Брюки",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/shoes-7.webp"
-    },
-    {
-      "category": "shoes",
-      "number": "8",
-      "price": "1450.00 р.",
-      "type": "Брюки",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/shoes-8.webp"
-    },
-    {
-      "category": "shoes",
-      "number": "9",
-      "price": "1450.00 р.",
-      "type": "Брюки",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/shoes-9.webp"
+      "image1": "/img/shirts-9.webp"
     }
   ],
   "bruki": [
     {
-      "category": "Брюки & Штаны",
+      "category": "bruki",
       "number": "1",
       "price": "1450.00 р.",
       "type": "Брюки",
@@ -513,127 +403,20 @@
       "image1": "/img/bruki-9.webp"
     }
   ],
-  "accessories": [
-    {
-      "category": "accessories",
-      "number": "1",
-      "price": "1450.00 р.",
-      "type": "Аксессуары",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/accessories-1.webp"
-    },
-    {
-      "category": "accessories",
-      "number": "2",
-      "price": "1450.00 р.",
-      "type": "Брюки",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/accessories-2.webp"
-    },
-    {
-      "category": "accessories",
-      "number": "3",
-      "price": "1450.00 р.",
-      "type": "Брюки",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/accessories-3.webp"
-    },
-    {
-      "category": "accessories",
-      "number": "4",
-      "price": "1450.00 р.",
-      "type": "Брюки",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/accessories-4.webp"
-    },
-    {
-      "category": "accessories",
-      "number": "5",
-      "price": "1450.00 р.",
-      "type": "Брюки",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/accessories-5.webp"
-    },
-    {
-      "category": "accessories",
-      "number": "6",
-      "price": "1450.00 р.",
-      "type": "Брюки",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/accessories-6.webp"
-    },
-    {
-      "category": "bruki",
-      "number": "7",
-      "price": "1450.00 р.",
-      "type": "Брюки",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/accessories-7.webp"
-    },
-    {
-      "category": "accessories",
-      "number": "8",
-      "price": "1450.00 р.",
-      "type": "Брюки",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/accessories-8.webp"
-    },
-    {
-      "category": "accessories",
-      "number": "9",
-      "price": "1450.00 р.",
-      "type": "Брюки",
-      "color": "Голубой",
-      "sizes": " S, M, L",
-      "season": "Лето",
-      "sostav": "Шерсть - 98%, Эластан - 2%",
-      "siluet": "Приталенный",
-      "image1": "/img/accessories-9.webp"
-    }
-  ],
   "slider": [
     {
-      "category": "kostum",
       "index": "1",
       "type": "Костюмы",
       "img": "/img/card1.png"
     },
-    { "category": "pidjac", "index": "2", "type": "Пиджаки", "img": "/img/card2.png" },
-    { "category": "bruki", "index": "3", "type": "Брюки & Штаны", "img": "/img/card3.png" },
-    { "category": "shirts", "index": "4", "type": "Рубашки", "img": "/img/card4.png" },
-    { "category": "shoes", "index": "5", "type": "Обувь", "img": "/img/card7.png" },
-    { "category": "accessories", "index": "6", "type": "Аксессуары", "img": "/img/card6.png" }
+    {
+      "index": "2",
+      "type": "Пиджаки",
+      "img": "/img/card2.png"
+    },
+    { "index": "3", "type": "Брюки & Штаны", "img": "/img/card3.png" },
+    { "index": "4", "type": "Рубашки", "img": "/img/card4.png" },
+    { "index": "5", "type": "Обувь", "img": "/img/card7.png" },
+    { "index": "6", "type": "Аксессуары", "img": "/img/card6.png" }
   ]
 }

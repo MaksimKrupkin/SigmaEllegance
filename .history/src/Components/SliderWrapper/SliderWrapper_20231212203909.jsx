@@ -10,7 +10,7 @@ import 'slick-carousel/slick/slick-theme.css';
 import LeftArrow from '../LeftArrow/LeftArrow';
 import RightArrow from '../RightArrow/RightArrow';
 
-export default function SliderWrapper() {
+export default function SliderWrapper(handleCategory) {
   const [sliderCards, setSliderCards] = useState([]);
 
   useEffect(() => {
@@ -56,7 +56,13 @@ export default function SliderWrapper() {
     <div className={styles.slider_wrapper}>
       <Slider {...settings} className={styles.slider}>
         {sliderCards.map((card, index) => (
-          <SliderCard category={card.category} key={index} type={card.type} image={card.img} />
+          <SliderCard
+            handleCategory={handleCategory}
+            category={card.category}
+            key={index}
+            type={card.type}
+            image={card.img}
+          />
         ))}
       </Slider>
     </div>

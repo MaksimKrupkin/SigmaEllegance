@@ -1,0 +1,312 @@
+{
+  "pidjacs": [
+    {
+      "category": "pidjac",
+      "number": "1",
+      "price": "900.00 р.",
+      "type": "Пиджак",
+      "color": "Коричневый",
+      "sizes": " S, M, L, XL",
+      "season": "Мульти",
+      "sostav": "Шерсть - 50%, Полиэстер - 50%",
+      "siluet": "Приталенный",
+      "image1": "/img/pidjac-1.webp"
+    },
+    {
+      "category": "pidjac",
+      "number": "2",
+      "price": "932.00 р.",
+      "type": "Пиджак",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/pidjac-2.webp"
+    },
+    {
+      "category": "pidjac",
+      "number": "3",
+      "price": "1283.00 р.",
+      "type": "Пиджак",
+      "color": "Черный",
+      "sizes": "S, M, XL",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/pidjac-3.webp"
+    },
+    {
+      "category": "pidjac",
+      "number": "4",
+      "price": "999.00 р.",
+      "type": "Пиджак",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/pidjac-4.webp"
+    },
+    {
+      "category": "pidjac",
+      "number": "5",
+      "price": "944.00 р.",
+      "type": "Пиджак",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/pidjac-5.webp"
+    },
+    {
+      "category": "pidjac",
+      "number": "6",
+      "price": "900.00 р.",
+      "type": "Пиджак",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/pidjac-6.webp"
+    },
+    {
+      "category": "pidjac",
+      "number": "7",
+      "price": "1211.00 р.",
+      "type": "Пиджак",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/pidjac-7.webp"
+    },
+    {
+      "category": "pidjac",
+      "number": "8",
+      "price": "900.00 р.",
+      "type": "Пиджак",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/pidjac-8.webp"
+    },
+    {
+      "category": "pidjac",
+      "number": "9",
+      "price": "900.00 р.",
+      "type": "Пиджак",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/pidjac-9.webp"
+    }
+  ],
+  "kostums": [
+    {
+      "category": "kostum",
+      "number": "1",
+      "price": "1450.00 р.",
+      "type": "Костюмы",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/kostum-1.webp"
+    },
+    {
+      "category": "kostum",
+      "number": "2",
+      "price": "1450.00 р.",
+      "type": "Костюмы",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/kostum-2.webp"
+    },
+    {
+      "category": "kostum",
+      "number": "3",
+      "price": "1450.00 р.",
+      "type": "Костюмы",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/kostum-3.webp"
+    },
+    {
+      "category": "kostum",
+      "number": "4",
+      "price": "1450.00 р.",
+      "type": "Костюмы",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/kostum-4.webp"
+    },
+    {
+      "category": "kostum",
+      "number": "5",
+      "price": "1450.00 р.",
+      "type": "Костюмы",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/kostum-5.webp"
+    },
+    {
+      "category": "kostum",
+      "number": "6",
+      "price": "1450.00 р.",
+      "type": "Костюмы",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/kostum-6.webp"
+    }
+  ],
+  "bruki": [
+    {
+      "category": "bruki",
+      "number": "1",
+      "price": "1450.00 р.",
+      "type": "Костюмы",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/kostum-1.webp"
+    },
+    {
+      "category": "bruki",
+      "number": "2",
+      "price": "1450.00 р.",
+      "type": "Костюмы",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/kostum-2.webp"
+    },
+    {
+      "category": "bruki",
+      "number": "3",
+      "price": "1450.00 р.",
+      "type": "Костюмы",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/kostum-3.webp"
+    },
+    {
+      "category": "bruki",
+      "number": "4",
+      "price": "1450.00 р.",
+      "type": "Костюмы",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/kostum-4.webp"
+    },
+    {
+      "category": "bruki",
+      "number": "5",
+      "price": "1450.00 р.",
+      "type": "Костюмы",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/kostum-5.webp"
+    },
+    {
+      "category": "bruki",
+      "number": "6",
+      "price": "1450.00 р.",
+      "type": "Костюмы",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/kostum-6.webp"
+    },
+    {
+      "category": "bruki",
+      "number": "7",
+      "price": "1450.00 р.",
+      "type": "Костюмы",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/kostum-6.webp"
+    },
+    {
+      "category": "bruki",
+      "number": "8",
+      "price": "1450.00 р.",
+      "type": "Костюмы",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/kostum-6.webp"
+    },
+    {
+      "category": "bruki",
+      "number": "9",
+      "price": "1450.00 р.",
+      "type": "Костюмы",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный",
+      "image1": "/img/kostum-6.webp"
+    }
+  ],
+  "slider": [
+    {
+      "index": "1",
+      "type": "Костюмы",
+      "img": "/img/card1.png"
+    },
+    {
+      "index": "2",
+      "type": "Пиджаки",
+      "img": "/img/card2.png"
+    },
+    { "index": "3", "type": "Брюки & Штаны", "img": "/img/card3.png" },
+    { "index": "4", "type": "Рубашки", "img": "/img/card4.png" },
+    { "index": "5", "type": "Обувь", "img": "/img/card7.png" },
+    { "index": "6", "type": "Аксессуары", "img": "/img/card6.png" }
+  ]
+}

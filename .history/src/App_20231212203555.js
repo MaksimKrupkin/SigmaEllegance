@@ -7,18 +7,18 @@ import Footer from './Components/Footer/Footer';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import AboutUs from './Pages/AboutUs/AboutUs';
 import SearchPage from './Pages/SearchPage/SearchPage';
-import React from 'react';
-import { useState } from 'react';
-import { useParams } from 'react-router-dom';
+
 function App() {
-  const { category } = useParams();
+  const [category, setCategory] = useState('');
+  const handleCategory = (data) => {
+    setCategory(data); // Устанавливаем полученные данные в состояние родительского компонента
+  };
   return (
     <div className={styles.container}>
       <Header />
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/goodspage/" element={<GoodsPage />} />
-        <Route path="/goodspage/:category" element={<GoodsPage />} />
+        <Route path="/goodspage/{handleCategory}" element={<GoodsPage />} />
         <Route path="/opengoodspage" element={<OpenGoodPage />} />
         <Route path="/aboutUsPage" element={<AboutUs />} />
         <Route path="/searchPage" element={<SearchPage />} />

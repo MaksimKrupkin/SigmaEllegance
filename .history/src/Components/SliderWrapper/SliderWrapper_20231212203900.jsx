@@ -10,7 +10,7 @@ import 'slick-carousel/slick/slick-theme.css';
 import LeftArrow from '../LeftArrow/LeftArrow';
 import RightArrow from '../RightArrow/RightArrow';
 
-export default function SliderWrapper() {
+export default function SliderWrapper(handleCategory) {
   const [sliderCards, setSliderCards] = useState([]);
 
   useEffect(() => {

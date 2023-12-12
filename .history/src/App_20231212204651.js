@@ -9,7 +9,6 @@ import AboutUs from './Pages/AboutUs/AboutUs';
 import SearchPage from './Pages/SearchPage/SearchPage';
 import React from 'react';
 import { useState } from 'react';
-import { useParams } from 'react-router-dom';
 function App() {
   const { category } = useParams();
   return (
@@ -17,8 +16,7 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/goodspage/" element={<GoodsPage />} />
-        <Route path="/goodspage/:category" element={<GoodsPage />} />
+        <Route path="/goodspage/{category}" element={<GoodsPage />} />
         <Route path="/opengoodspage" element={<OpenGoodPage />} />
         <Route path="/aboutUsPage" element={<AboutUs />} />
         <Route path="/searchPage" element={<SearchPage />} />

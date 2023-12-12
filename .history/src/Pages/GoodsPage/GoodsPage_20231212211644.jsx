@@ -22,12 +22,11 @@ export default function GoodsPage() {
         console.log(error, 'error');
       });
   }, [category]);
-  const firstItemType = goods.length > 0 ? goods[0].type : '';
-  console.log(firstItemType);
+  console.log(goods.type);
 
   return (
     <div className={styles.main}>
-      <div className={styles.page_title}>{firstItemType}</div>
+      <div className={styles.page_title}>{goods.type}</div>
       <div className={styles.container_goods}>
         {goods.map((card, index) => (
           <GoodsCard key={index} type={card.type} price={card.price} image={card.image1} />

@@ -27,7 +27,7 @@ export default function GoodsPage() {
 
   return (
     <div className={styles.main}>
-      <div className={styles.page_title}>{firstItemType}</div>
+      <div className={styles.page_title}>{goods.type}</div>
       <div className={styles.container_goods}>
         {goods.map((card, index) => (
           <GoodsCard key={index} type={card.type} price={card.price} image={card.image1} />
