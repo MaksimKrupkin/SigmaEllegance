@@ -1,0 +1,147 @@
+.upper-collections {
+  width: 100%;
+  height: 450px;
+}
+.button-collection1 {
+  background-color: #252525;
+  border-radius: 5px;
+  width: 620px;
+  height: 450px;
+  position: relative;
+  margin-right: 20px;
+  display: inline-block;
+}
+.collection-1-wrapper {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.collection1-title {
+  position: absolute;
+  top: 70px;
+  right: 65px;
+  width: 195px;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 37px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.link-wrapper1 {
+  width: 118px;
+  height: 36px;
+  position: absolute;
+  right: 65px;
+  top: 268px;
+  border: 2px solid white;
+  border-radius: 5px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 36px;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.1s ease-in;
+}
+.link-wrapper1:hover {
+  top: 265px;
+  width: 120px;
+  height: 38px;
+}
+
+.collection1-link {
+  color: white;
+}
+.image-collection2 {
+  height: 450px;
+  width: 300px;
+  border-radius: 5px;
+  margin-right: 20px;
+  display: inline-block;
+}
+.image-collection3 {
+  height: 450px;
+  width: 299px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.down-collection {
+  height: 450px;
+  margin-top: 20px;
+}
+
+.image-collection4 {
+  height: 450px;
+  width: 298px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.image-collection5 {
+  height: 450px;
+  width: 298px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.button-collection6 {
+  background-color: #252525;
+  border-radius: 5px;
+  width: 620px;
+  height: 450px;
+  position: relative;
+  margin-right: 20px;
+  display: inline-block;
+}
+.collection-6-wrapper {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.collection6-title {
+  position: absolute;
+  top: 70px;
+  left: 65px;
+  width: 222px;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 37px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.image-wrapper6 {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.link-wrapper6 {
+  width: 118px;
+  height: 36px;
+  position: absolute;
+  left: 65px;
+  top: 268px;
+  border: 2px solid white;
+  border-radius: 5px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 36px;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.1s ease-in;
+}
+.link-wrapper6:hover {
+  top: 265px;
+  width: 120px;
+  height: 38px;
+}
+.collection6-link {
+  color: white;
+}

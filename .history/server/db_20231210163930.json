@@ -1,0 +1,15 @@
+{
+  "pidjacs": [
+    {
+      " category": "pidjac",
+      "number": "1",
+      "price": "900.00 р.",
+      "type": "Пиджак",
+      "color": "Коричневый",
+      "sizes": " S, M, L, XL",
+      "season": "Мульти",
+      "sostav": " Шерсть - 50%, Полиэстер - 50%",
+      "siluet": "Приталенный"
+    }
+  ]
+}

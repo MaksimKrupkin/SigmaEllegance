@@ -1,0 +1,32 @@
+.container {
+  width: 1200px;
+  height: 470px;
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.page_title {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+.container_goods {
+  width: 1200px;
+  height: 470px;
+  margin: 150px;
+  margin-right: 140px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  gap: 115px;
+
+  border-color: #00bfed;
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}

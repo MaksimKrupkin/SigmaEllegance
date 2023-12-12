@@ -1,0 +1,142 @@
+.pidjaci_title {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+.good_container {
+  width: 1200px;
+  margin: 150px;
+  margin-right: 140px;
+  margin-top: 50px;
+
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.type {
+  color: #000000;
+}
+.images {
+  width: 750px;
+  display: flex;
+  gap: 20px;
+}
+
+.images_wrapper {
+  display: inline-block;
+  width: 750px;
+}
+.goods_image {
+  max-width: 350px; /* Adjust the size as needed */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 7px;
+}
+
+.goods_subimage {
+  max-width: 92px; /* Adjust the size as needed */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 5px;
+}
+
+.subimages {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.information {
+  margin-top: -20px;
+  position: absolute;
+  left: 900px;
+  display: inline-block;
+}
+.type_about {
+  font-size: 42px;
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-bottom: 30px;
+  position: relative;
+}
+.price_about {
+  margin-top: 20px;
+  margin-left: 0;
+  display: block;
+  font-weight: 500;
+  font-size: 25px;
+}
+.sizes {
+  margin-top: 20px;
+  margin-left: 0;
+  display: block;
+  font-weight: 500;
+  font-size: 20px;
+}
+.sostav {
+  margin-top: 20px;
+  margin-left: 0;
+  display: block;
+  font-weight: 500;
+  font-size: 20px;
+}
+.color {
+  margin-top: 20px;
+  margin-left: 0;
+  display: block;
+  font-weight: 500;
+  font-size: 20px;
+}
+.season {
+  margin-top: 20px;
+  margin-left: 0;
+  display: block;
+  font-weight: 500;
+  font-size: 20px;
+}
+.tocarzina {
+  margin-top: 70px;
+  margin-right: 30px;
+  text-align: center;
+  display: inline-block;
+  height: 50px;
+  line-height: 50px;
+  width: 180px;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  background-color: #000000;
+  transition: all 0.2s ease;
+}
+.tocarzina:hover,
+.tobuy:hover {
+  color: rgb(0, 0, 0);
+  background-color: #dfcabb;
+}
+.tobuy {
+  margin-top: 70px;
+  display: inline-block;
+  height: 50px;
+  line-height: 50px;
+  width: 150px;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  background-color: #000000;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  transition: all 0.2s ease;
+}
+.siluet {
+  margin-top: 20px;
+  margin-left: 0;
+  display: block;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.card-black-link {
+  color: #000000;
+}

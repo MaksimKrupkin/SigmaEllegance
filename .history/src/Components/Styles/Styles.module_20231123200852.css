@@ -1,0 +1,10 @@
+.styles_section {
+  width: 1900px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+}
+.styles_wrapper {
+  width: 1445px;
+  display: flex;
+}

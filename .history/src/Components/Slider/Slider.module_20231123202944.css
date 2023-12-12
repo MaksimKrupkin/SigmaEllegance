@@ -1,0 +1,30 @@
+.slider_wrapper {
+  width: 1586px;
+  height: 540px;
+  background-color: #eff1f3;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  overflow: hidden;
+  padding-left: 45px;
+  padding-right: 45px;
+}
+.leftArrow {
+  display: block;
+  width: 35px;
+  height: 35px;
+}
+.slider {
+  width: 1290px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+}
+.rightArrow {
+  display: block;
+  width: 35px;
+  height: 35px;
+}

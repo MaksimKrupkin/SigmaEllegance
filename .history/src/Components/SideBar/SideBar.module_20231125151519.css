@@ -1,0 +1,96 @@
+.menu {
+  background-color: #ffffff;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 530px;
+  height: 100%;
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: uppercase;
+  z-index: 15;
+}
+.menu_main_item {
+  margin-left: 60px;
+  color: black;
+  line-height: 60px;
+  cursor: pointer;
+}
+.menu_off {
+  margin-left: 478px;
+  margin-top: 25px;
+  cursor: pointer;
+}
+
+.menu_link {
+  color: black;
+  line-height: 60px;
+}
+.search_link:hover {
+  color: #703737;
+}
+
+.menu_main_item_text {
+  display: inline-block;
+  transition: all 0.2s ease-in;
+}
+
+.menu_main_item_text:hover {
+  color: #703737;
+  font-weight: 600;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.menu_main_item_image {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.styles_open {
+  margin-left: 65px;
+  display: block;
+}
+.style_open_item_link {
+  color: black;
+  line-height: 40px;
+}
+.style_open_item_link:hover {
+  color: #703737;
+}
+
+.costums_open {
+  margin-left: 65px;
+  display: block;
+}
+.costums_open_item_link {
+  color: black;
+  line-height: 40px;
+}
+.costums_open_item_link:hover {
+  color: #703737;
+}
+
+.clothes_open {
+  margin-left: 65px;
+  display: block;
+}
+.clothes_open_item_link {
+  color: black;
+  line-height: 40px;
+}
+.clothes_open_item_link:hover {
+  color: #703737;
+}
+
+.shoes_open {
+  margin-left: 65px;
+  display: block;
+}
+.shoes_open_item_link {
+  color: black;
+  line-height: 40px;
+}
+.shoes_open_item_link:hover {
+  color: #703737;
+}

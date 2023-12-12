@@ -1,0 +1,45 @@
+/* ПИДЖАКИ */
+
+.pidjac-card1 {
+  width: 380px;
+  border-radius: 5px;
+  -webkit-box-shadow: 5px 4px 15px 0px rgba(11, 34, 51, 0.2);
+  -moz-box-shadow: 5px 4px 15px 0px rgba(11, 34, 51, 0.2);
+  box-shadow: 5px 4px 15px 0px rgba(11, 34, 51, 0.2);
+  transition: all 0.2s ease-in;
+}
+
+.tovar-image {
+  width: 380px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.goods-link {
+  color: #000000;
+}
+
+.price {
+  font-size: 22px;
+  font-weight: 700;
+  margin-left: 15px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+.brandname {
+  font-size: 16px;
+  font-weight: 500;
+  margin-left: 15px;
+}
+
+.type {
+  font-size: 16px;
+  font-weight: 500;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+.pidjac-card1:hover {
+  -webkit-box-shadow: 9px -5px 17px -5px rgba(11, 34, 51, 0.6);
+  -moz-box-shadow: 9px -5px 17px -5px rgba(11, 34, 51, 0.6);
+  box-shadow: 9px -5px 17px -5px rgba(11, 34, 51, 0.6);
+}

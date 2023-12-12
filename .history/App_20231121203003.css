@@ -1,0 +1,14 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+}
+.container {
+  width: 1600px;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+}

@@ -1,0 +1,102 @@
+.collections_section {
+  width: 1600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.title {
+  color: #000;
+
+  font-family: Montserrat;
+  font-size: 37px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+}
+.collections_wrapper {
+  width: 1290px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.collections_top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.collection1 {
+  display: inline-block;
+  /* position: absolute; */
+  vertical-align: top; /* Установка вертикального выравнивания */
+  width: 630px; /* Установка ширины каждой коллекции */
+  height: 450px; /* Установка высоты каждой коллекции */
+  border-radius: 5px;
+  background-size: cover; /* Растягивание изображения для заполнения контейнера */
+  margin-right: 20px; /* Отступ между коллекциями */
+  background-color: #252525;
+}
+.collection1_image {
+  position: inherit;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 5px;
+
+  width: 297px;
+  height: 100%;
+}
+
+.subtitle {
+  position: relative;
+  top: 70px;
+  left: 65px;
+  width: 195px;
+  height: 148px;
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: uppercase;
+}
+.button {
+  position: relative;
+  top: 118px;
+  left: 65px;
+  display: block;
+  width: 118px;
+  height: 36px;
+  border: 2px solid white;
+  border-radius: 2px;
+  background-color: transparent;
+  color: white;
+  padding-top: 8px;
+  text-align: center;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.collection2 {
+  display: inline-block;
+  vertical-align: top; /* Установка вертикального выравнивания */
+  width: 300px; /* Установка ширины каждой коллекции */
+  height: 450px; /* Установка высоты каждой коллекции */
+  border-radius: 5px;
+  background-size: cover; /* Растягивание изображения для заполнения контейнера */
+  margin-right: 20px; /* Отступ между коллекциями */
+  background-image: url(../../assets/img/collection2.png);
+}
+
+.collection3 {
+  display: inline-block;
+  vertical-align: top; /* Установка вертикального выравнивания */
+  width: 300px; /* Установка ширины каждой коллекции */
+  height: 450px; /* Установка высоты каждой коллекции */
+  border-radius: 5px;
+  background-size: cover; /* Растягивание изображения для заполнения контейнера */
+  margin-right: 20px; /* Отступ между коллекциями */
+  background-image: url(../../assets/img/collection3.png);
+}

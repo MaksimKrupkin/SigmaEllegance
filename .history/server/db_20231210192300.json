@@ -1,0 +1,53 @@
+{
+  "pidjacs": [
+    {
+      "category": "pidjac",
+      "number": "1",
+      "price": "900.00 р.",
+      "type": "Пиджак",
+      "color": "Коричневый",
+      "sizes": " S, M, L, XL",
+      "season": "Мульти",
+      "sostav": "Шерсть - 50%, Полиэстер - 50%",
+      "siluet": "Приталенный"
+    },
+    {
+      "category": "pidjac",
+      "number": "2",
+      "price": "900.00 р.",
+      "type": "Пиджак",
+      "color": "Голубой",
+      "sizes": " S, M, L",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный"
+    },
+    {
+      "category": "pidjac",
+      "number": "3",
+      "price": "1283.00 р.",
+      "type": "Пиджак",
+      "color": "Черный",
+      "sizes": "S, M, XL",
+      "season": "Лето",
+      "sostav": "Шерсть - 98%, Эластан - 2%",
+      "siluet": "Приталенный"
+    }
+  ],
+  "slider": [
+    {
+      "index": "1",
+      "type": "Костюмы",
+      "img": "/img/card1.png"
+    },
+    {
+      "index": "2",
+      "type": "Пиджаки",
+      "img": "/img/card2.png"
+    },
+    { "index": "3", "type": "Брюки & Штаны", "img": "../src/assets/img/card3.png" },
+    { "index": "4", "type": "Рубашки", "img": "../src/assets/img/card4.png" },
+    { "index": "5", "type": "Обувь", "img": "../src/assets/img/card7.png" },
+    { "index": "6", "type": "Аксессуары", "img": "../src/assets/img/card6.png" }
+  ]
+}

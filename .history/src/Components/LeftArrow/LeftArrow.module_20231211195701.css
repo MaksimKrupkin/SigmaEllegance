@@ -1,0 +1,8 @@
+.leftArrow {
+  position: absolute;
+  left: 20px;
+  top: 100px;
+  display: block;
+  width: 35px;
+  height: 35px;
+}

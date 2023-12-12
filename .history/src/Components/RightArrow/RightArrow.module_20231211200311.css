@@ -1,0 +1,9 @@
+.rightArrow {
+  z-index: 15;
+  position: absolute;
+  right: 0;
+  top: 250px;
+  display: block;
+  width: 35px;
+  height: 35px;
+}

@@ -1,0 +1,69 @@
+import React from 'react';
+import icon1 from '../../assets/img/pint.svg';
+import icon2 from '../../assets/img/TT.svg';
+import icon3 from '../../assets/img/TG.svg';
+import icon4 from '../../assets/img/IG.svg';
+import icon5 from '../../assets/img/VK.svg';
+import styles from './Footer.module.css';
+
+export default function Footer() {
+  return (
+    <footer className={styles.footer}>
+      <div className={styles.column_1}>
+        <div className={styles.column_title}>О компании</div>
+        <div className={styles.column_item}> Магазины</div>
+        <div className={styles.column_item}>Контакты</div>
+        <div className={styles.column_item}>О нас</div>
+        <div className={styles.column_item}>Политика</div>
+        <div className={styles.column_item}>Обратная связь</div>
+      </div>
+      <div className={styles.column_2}>
+        <div className={styles.column_title}>Поддержка</div>
+        <div className={styles.column_item}> Оплата товара</div>
+        <div className={styles.column_item}>Бонусная программа</div>
+        <div className={styles.column_item}>Где мой заказ?</div>
+        <div className={styles.column_item}>Доставка товара</div>
+        <div className={styles.column_item}>Обмен и возврат</div>
+        <div className={styles.column_item}>Подарочный сертификат</div>
+        <div className={styles.column_item}>Помощь портного</div>
+      </div>
+      <div className={styles.column_3}>
+        <div className={styles.column_title}>Магазин</div>
+        <div className={styles.column_item}> Коллекции</div>
+        <div className={styles.column_item}>Смокинги</div>
+        <div className={styles.column_item}>Пиджаки</div>
+        <div className={styles.column_item}>Брюки & Штаны</div>
+        <div className={styles.column_item}>Рубашки</div>
+        <div className={styles.column_item}>Все товары</div>
+      </div>
+      <div className={styles.footer_form}>
+        <div className={styles.footer_form_title}>Узнавайте первыми</div>
+        <form action={styles.text}>
+          <input className={styles.footer_form_email} type="text" placeholder="Ваш Email" />
+        </form>
+        <div className={styles.footer_button}>
+          <div className={styles.footer - link}>Подписаться</div>
+        </div>
+        <div className={styles.policy}>
+          Подписываясь на рассылку, вы соглашаетесь с условиями{' '}
+          <a href="" className={styles.policy_link}>
+            оферты
+          </a>{' '}
+          и <a className={styles.policy_link}>политики конфиденциальности</a>{' '}
+        </div>
+      </div>
+      <div className={styles.footer_border}>
+        <img src="/img/Border.svg" alt="" />
+      </div>
+      <div className={styles.sigma_corp}>© SigmaEllegance, 2023</div>
+      <div className={styles.made_by}>made by @krupkinmaxim</div>
+      <div className={styles.social_networks}>
+        <img className={styles.pintrest} src={icon1} alt="" />
+        <img className={styles.tik - tok} src={icon2} alt="" />
+        <img className={styles.telegram} src={icon3} alt="" />
+        <img className={styles.instagram} src={icon4} alt="" />
+        <img className={styles.vk} src={icon5} alt="" />
+      </div>
+    </footer>
+  );
+}

@@ -1,0 +1,14 @@
+.page_title {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+.container_goods {
+  max-width: 1200px;
+  margin: 50px auto; /* Центрируем контейнер */
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Адаптивные колонки */
+  gap: 30px;
+}

@@ -1,0 +1,27 @@
+.main {
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.page_title {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+.container_goods {
+  width: 1200px;
+  height: 1000px;
+  margin: 150px;
+  margin-right: 140px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+
+  border-color: #00bfed;
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  flex-wrap: wrap;
+}
