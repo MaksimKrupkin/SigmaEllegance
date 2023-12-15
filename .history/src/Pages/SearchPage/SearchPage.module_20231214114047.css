@@ -1,0 +1,96 @@
+main {
+  height: 640px;
+}
+.search_box {
+  margin-top: 25px;
+  margin-left: 146px;
+  width: 1289px;
+  height: 45px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 7px;
+}
+.search_field {
+  width: 70%;
+  border: none;
+  margin-left: 30px;
+  font-size: 17px;
+  color: #959595;
+  outline: none;
+}
+.search_glass {
+  background-image: url(../../assets/img/lupa.svg);
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  width: 22px;
+  height: 22px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  margin-right: -40px;
+  margin-left: 150px;
+
+  border: none;
+}
+.search_button_wrapper {
+  height: 100%;
+  width: 50px;
+  border-left: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search_cross {
+  background-image: url(../../assets/img/cross.svg);
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  width: 22px;
+  height: 22px;
+  margin-top: 5px;
+  margin-left: 3px;
+  border: none;
+}
+
+.right_menu__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
+}
+.right_menu__item:hover {
+  color: rgb(124, 109, 109);
+}
+
+.often_variants {
+  width: 311px;
+  height: 196px;
+  margin-top: 40px;
+  margin-left: 190px;
+}
+
+.often_variants_title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #000000;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+.often_variants_items {
+  font-style: 17px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.often_variant_item1 {
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.often_variant_link {
+  font-style: 17px;
+  font-weight: 400;
+  color: #000000;
+}
