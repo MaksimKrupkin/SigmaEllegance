@@ -43,16 +43,16 @@ export default function SideBar({ HandleToggle }) {
             <Link to="/goodspage/elit" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Элит</div>
             </Link>
-            <Link to="/goodspage/perfomance" className={styles.style_open_item_link}>
+            <Link href="/performance.html" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Перфоманс</div>
             </Link>
-            <Link to="/goodspage/dark" className={styles.style_open_item_link}>
+            <Link href="" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Тёмный</div>
             </Link>
-            <Link to="/goodspage/newlook" className={styles.style_open_item_link}>
+            <Link href="" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Нью-лук</div>
             </Link>
-            <Link to="/goodspage/classic" className={styles.style_open_item_link}>
+            <Link href="" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Классик</div>
             </Link>
           </div>

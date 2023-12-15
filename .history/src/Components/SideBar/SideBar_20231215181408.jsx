@@ -40,19 +40,19 @@ export default function SideBar({ HandleToggle }) {
         <img className={styles.menu_main_item_image} src={arrowDown} alt="" id="image1" />
         {toggleStyles && (
           <div className={styles.styles_open}>
-            <Link to="/goodspage/elit" className={styles.style_open_item_link}>
+            <Link href="/elit.html" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Элит</div>
             </Link>
-            <Link to="/goodspage/perfomance" className={styles.style_open_item_link}>
+            <Link href="/performance.html" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Перфоманс</div>
             </Link>
-            <Link to="/goodspage/dark" className={styles.style_open_item_link}>
+            <Link href="" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Тёмный</div>
             </Link>
-            <Link to="/goodspage/newlook" className={styles.style_open_item_link}>
+            <Link href="" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Нью-лук</div>
             </Link>
-            <Link to="/goodspage/classic" className={styles.style_open_item_link}>
+            <Link href="" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Классик</div>
             </Link>
           </div>
@@ -88,7 +88,10 @@ export default function SideBar({ HandleToggle }) {
             <Link to="/goodspage/shirts" className={styles.clothes_open_item_link}>
               <div classNames={styles.clothes_open_item}>Рубашки</div>
             </Link>
-            <Link to="/goodspage/bruki" className={styles.clothes_open_item_link}>
+            <Link href="/jakets.html" className={styles.clothes_open_item_link}>
+              <div className={styles.clothes_open_item}>Жакеты</div>
+            </Link>
+            <Link href="" className={styles.clothes_open_item_link}>
               <div className={styles.clothes_open_item}>брюки & штаны</div>
             </Link>
             <Link to="/goodspage/belts" className={styles.clothes_open_item_link}>

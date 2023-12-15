@@ -8,13 +8,13 @@ export default function Popular() {
 
       <div className={styles.often_variants_items}>
         <div className={styles.often_variant_item1}>
-          <Link to="/goodspage/kostum" className={styles.often_variant_link}>
-            костюм
+          <Link to="/goodspage/castum" className={styles.often_variant_link}>
+            костюм тройка
           </Link>
         </div>
         <div className={styles.often_variant_item1}>
           <Link href="" className={styles.often_variant_link}>
-            туфли
+            фрак
           </Link>
         </div>
         <div className={styles.often_variant_item1}>
@@ -24,7 +24,7 @@ export default function Popular() {
         </div>
         <div className={styles.often_variant_item1}>
           <Link href="" className={styles.often_variant_link}>
-            рубашка
+            костюм на заказ
           </Link>
         </div>
       </div>

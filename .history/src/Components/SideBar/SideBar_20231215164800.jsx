@@ -35,26 +35,28 @@ export default function SideBar({ HandleToggle }) {
         </div>
       </Link>
 
-      <div onClick={HandleToggleStyles} className={styles.menu_main_item} id="styles">
-        <div className={styles.menu_main_item_text}>Стили</div>
+      <div className={styles.menu_main_item} id="styles">
+        <div onClick={HandleToggleStyles} className={styles.menu_main_item_text}>
+          Стили
+        </div>
         <img className={styles.menu_main_item_image} src={arrowDown} alt="" id="image1" />
         {toggleStyles && (
           <div className={styles.styles_open}>
-            <Link to="/goodspage/elit" className={styles.style_open_item_link}>
+            <a href="/elit.html" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Элит</div>
-            </Link>
-            <Link to="/goodspage/perfomance" className={styles.style_open_item_link}>
+            </a>
+            <a href="/performance.html" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Перфоманс</div>
-            </Link>
-            <Link to="/goodspage/dark" className={styles.style_open_item_link}>
+            </a>
+            <a href="" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Тёмный</div>
-            </Link>
-            <Link to="/goodspage/newlook" className={styles.style_open_item_link}>
+            </a>
+            <a href="" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Нью-лук</div>
-            </Link>
-            <Link to="/goodspage/classic" className={styles.style_open_item_link}>
+            </a>
+            <a href="" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Классик</div>
-            </Link>
+            </a>
           </div>
         )}
       </div>
@@ -64,69 +66,76 @@ export default function SideBar({ HandleToggle }) {
         <img className={styles.menu_main_item_image} src={arrowDown} alt="" id="image2" />
         {toggleCostums && (
           <div className={styles.costums_open} id="openedCostums">
-            <Link to="/goodspage/kostum" className={styles.costums_open_item_link}>
+            <a href="/kostum-troika.html" className={styles.costums_open_item_link}>
               <div className={styles.costums_open_item}>Тройка</div>
-            </Link>
-            <Link to="/goodspage/jackets" className={styles.costums_open_item_link}>
+            </a>
+            <a href="" className={styles.costums_open_item_link}>
               <div className={styles.costums_open_item}>Жилеты</div>
-            </Link>
-            <Link to="/goodspage/smokings" className={styles.costums_open_item_link}>
+            </a>
+            <a href="/smoking.html" className={styles.costums_open_item_link}>
               <div cclassName={styles.costums_open_item}>Смокинг</div>
-            </Link>
+            </a>
           </div>
         )}
       </div>
 
-      <div onClick={HandleToggleAccessories} className={styles.menu_main_item} id="clothes">
-        <div className={styles.menu_main_item_text}>одежда & АКСЕССУАРЫ</div>
+      <div className={styles.menu_main_item} id="clothes">
+        <div onClick={HandleToggleAccessories} className={styles.menu_main_item_text}>
+          одежда & АКСЕССУАРЫ
+        </div>
         <img className={styles.menu_main_item_image} src={arrowDown} alt="" id="image3" />
         {toggleAccessories && (
           <div className={styles.clothes_open} id="openedClothes">
-            <Link to="/goodspage/pidjac" className={styles.clothes_open_item_link}>
+            <Link to="/goodspage" className={styles.clothes_open_item_link}>
               <div className={styles.clothes_open_item}>Пиджаки</div>
             </Link>
-            <Link to="/goodspage/shirts" className={styles.clothes_open_item_link}>
+            <a href="" className={styles.clothes_open_item_link}>
               <div classNames={styles.clothes_open_item}>Рубашки</div>
-            </Link>
-            <Link to="/goodspage/bruki" className={styles.clothes_open_item_link}>
+            </a>
+            <a href="/jakets.html" className={styles.clothes_open_item_link}>
+              <div className={styles.clothes_open_item}>Жакеты</div>
+            </a>
+            <a href="" className={styles.clothes_open_item_link}>
               <div className={styles.clothes_open_item}>брюки & штаны</div>
-            </Link>
-            <Link to="/goodspage/belts" className={styles.clothes_open_item_link}>
+            </a>
+            <a href="" className={styles.clothes_open_item_link}>
               <div className={styles.clothes_open_item}>Ремни</div>
-            </Link>
-            <Link to="/goodspage/tie" className={styles.clothes_open_item_link}>
+            </a>
+            <a href="" className={styles.clothes_open_item_link}>
               <div className={styles.clothes_open_item}>Галстуки</div>
-            </Link>
-            <Link to="/goodspage/butterfly" className={styles.clothes_open_item_link}>
+            </a>
+            <a href="" className={styles.clothes_open_item_link}>
               <div className={styles.clothes_open_item}>Бабочки</div>
-            </Link>
+            </a>
           </div>
         )}
       </div>
 
-      <div onClick={HandleToggleShoes} className={styles.menu_main_item} id="shoes">
-        <div className={styles.menu_main_item_text}>Обувь</div>
+      <div className={styles.menu_main_item} id="shoes">
+        <div onClick={HandleToggleShoes} className={styles.menu_main_item_text}>
+          Обувь
+        </div>
         <img className={styles.menu_main_item_image} src={arrowDown} alt="" id="image4" />
         {toggleShoes && (
           <div className={styles.shoes_open} id="openedShoes">
-            <Link href="" className={styles.shoes_open_item_link}>
+            <a href="" className={styles.shoes_open_item_link}>
               <div className={styles.shoes_open_item}>Оксфорды</div>
-            </Link>
-            <Link href="" className={styles.shoes_open_item_link}>
+            </a>
+            <a href="" className={styles.shoes_open_item_link}>
               <div className={styles.shoes_open_item}>Дерби</div>
-            </Link>
-            <Link href="" className={styles.shoes_open_item_link}>
+            </a>
+            <a href="" className={styles.shoes_open_item_link}>
               <div className={styles.shoes_open_item}>Броги</div>
-            </Link>
-            <Link href="" className={styles.shoes_open_item_link}>
+            </a>
+            <a href="" className={styles.shoes_open_item_link}>
               <div className={styles.shoes_open_item}>Монки</div>
-            </Link>
-            <Link href="" className={styles.shoes_open_item_link}>
+            </a>
+            <a href="" className={styles.shoes_open_item_link}>
               <div className={styles.shoes_open_item}>Лоферы</div>
-            </Link>
-            <Link href="" className={styles.shoes_open_item_link}>
+            </a>
+            <a href="" className={styles.shoes_open_item_link}>
               <div className={styles.shoes_open_item}>Челси</div>
-            </Link>
+            </a>
           </div>
         )}
       </div>
@@ -137,17 +146,17 @@ export default function SideBar({ HandleToggle }) {
         </div>
       </Link>
 
-      <Link className={styles.menu_link} href="">
+      <a className={styles.menu_link} href="">
         <div className={styles.menu_main_item}>
           <div className={styles.menu_main_item_text}>ОПЛАТА И ДОСТАВКА</div>
         </div>
-      </Link>
+      </a>
 
-      <Link className={styles.menu_link} href="">
+      <a className={styles.menu_link} href="">
         <div className={styles.menu_main_item}>
           <div className={styles.menu_main_item_text}>контакты</div>
         </div>
-      </Link>
+      </a>
     </aside>
   );
 }

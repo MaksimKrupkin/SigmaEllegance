@@ -52,7 +52,7 @@ export default function SideBar({ HandleToggle }) {
             <Link to="/goodspage/newlook" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Нью-лук</div>
             </Link>
-            <Link to="/goodspage/classic" className={styles.style_open_item_link}>
+            <Link href="" className={styles.style_open_item_link}>
               <div className={styles.style_open_item}>Классик</div>
             </Link>
           </div>
