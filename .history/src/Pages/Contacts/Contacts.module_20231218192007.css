@@ -1,0 +1,127 @@
+.container {
+  width: 1586px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+.top_part {
+  width: 1290px;
+  height: 83vh;
+}
+.title {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 37px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  margin-bottom: 45px;
+}
+.paragraphs {
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+.item {
+  width: 390px;
+}
+.subtitle {
+  color: #000;
+
+  font-family: Montserrat;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+}
+.text {
+  color: #000;
+
+  font-family: Montserrat;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.phoneNumber {
+  display: block;
+  margin-top: 15px;
+  color: #000;
+
+  font-family: Montserrat;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.link {
+  display: inline-block;
+  color: #00bfed;
+  font-family: Montserrat;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.bottom_part {
+  width: 1586px;
+  background-color: #eff1f3;
+  display: flex;
+  justify-content: center;
+}
+.bottom_part_container {
+  width: 1290px;
+}
+.bottomPart_wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+}
+.leftPart {
+  width: 410px;
+  color: #000;
+
+  font-family: Montserrat;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.leftPart_subtitle {
+  margin-bottom: 25px;
+}
+.table {
+  width: 298px;
+  height: 152px;
+}
+.first_row {
+  color: #000;
+
+  font-family: Montserrat;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.second_row {
+  color: #000;
+
+  font-family: Montserrat;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.rightPart {
+  width: 600px;
+  margin-right: 100px;
+}

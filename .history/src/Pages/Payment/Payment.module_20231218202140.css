@@ -1,0 +1,13 @@
+.paymentPage {
+  width: 1586px;
+}
+.container {
+  width: 1290px;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  padding-bottom: 30px;
+}

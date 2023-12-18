@@ -1,0 +1,37 @@
+.paymentPage {
+  width: 1586px;
+  display: flex;
+  justify-content: center;
+}
+.container {
+  width: 1290px;
+}
+.title {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 37px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  margin-bottom: 45px;
+}
+.item {
+  width: 400px;
+}
+.paragraphWithCheck {
+  display: flex;
+  justify-items: space-beetwen;
+  align-items: center;
+}
+.check {
+  display: block;
+}
+.paragraph {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}

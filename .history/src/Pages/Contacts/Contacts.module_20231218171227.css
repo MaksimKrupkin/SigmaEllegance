@@ -1,0 +1,22 @@
+.container {
+  width: 1600px;
+  height: 470px;
+  margin: 150px;
+  margin-right: 140px;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 50px;
+}
+.paragraphs {
+  width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.item {
+  width: 30px;
+}
