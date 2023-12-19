@@ -1,0 +1,9 @@
+.wrapper {
+  width: 1600px;
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+}
+.container {
+  width: 1290px;
+}

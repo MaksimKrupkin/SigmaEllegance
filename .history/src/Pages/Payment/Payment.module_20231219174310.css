@@ -1,0 +1,88 @@
+.paymentPage {
+  width: 1586px;
+  display: flex;
+  justify-content: center;
+}
+.container {
+  width: 1290px;
+}
+.items_wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+.title {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 37px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  margin-bottom: 45px;
+}
+.item {
+  width: 390px;
+  margin: 0;
+}
+.subtitle {
+  color: #000;
+
+  font-family: Montserrat;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+}
+.paragraphWithCheck {
+  display: flex;
+  justify-items: space-beetwen;
+  align-items: start;
+  gap: 10px;
+}
+.check {
+  display: block;
+  margin-top: 10px;
+}
+.paragraph {
+  margin: 5px;
+  color: #000;
+  font-family: Montserrat;
+  font-size: 19px;
+  line-height: 19px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.image1 {
+  width: 52px;
+  display: inline-block;
+}
+.image2 {
+  width: 32px;
+  display: inline-block;
+}
+.image3 {
+  width: 40px;
+  display: inline-block;
+}
+.image4 {
+  width: 37px;
+  display: inline-block;
+}
+.image5 {
+  width: 29px;
+  display: inline-block;
+}
+.image6 {
+  width: 67px;
+  display: inline-block;
+}
+.image6 {
+  width: 60px;
+  display: inline-block;
+}
