@@ -1,0 +1,8 @@
+.container_wrapper {
+  width: 1586px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

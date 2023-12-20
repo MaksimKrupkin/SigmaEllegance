@@ -1,0 +1,32 @@
+.often_variants {
+  width: 311px;
+  height: 500px;
+  height: 196px;
+  margin-top: 40px;
+  margin-left: 190px;
+}
+
+.often_variants_title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #000000;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+.often_variants_items {
+  font-style: 17px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.often_variant_item1 {
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.often_variant_link {
+  font-style: 17px;
+  font-weight: 400;
+  color: #000000;
+}

@@ -1,0 +1,44 @@
+.container_wrapper {
+  width: 1586px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  width: 1290px;
+}
+.title {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 37px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  margin-bottom: 45px;
+}
+.paragraph {
+  color: #000;
+
+  font-family: Montserrat;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.inputs_wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.input {
+  margin: 0;
+  width: 630px;
+  height: 55px;
+  border-radius: 5px;
+  border: 2px solid #000;
+}
